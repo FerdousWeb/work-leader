@@ -1,0 +1,100 @@
+body{
+background-color: #E5E5E5;
+}
+
+nav .navbar-nav li a{
+    color:white;
+    }
+.navbar img{
+    width: 40px;
+}
+
+.navb {
+    margin-left: 250px;
+}
+.navr{
+    margin-right: 250px;
+}
+.player img{
+height: 56px;
+}
+main{
+max-width: 870px;
+}
+.top-player{
+    border-radius: 10px;
+}
+
+.blogs img{
+    width: 220px;
+    height: 125px;
+   
+}
+.blogs{
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}
+.latest-course{
+    max-width: 870px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-left: 42px;
+    padding-right: 42px;
+    border-radius: 10px;
+}
+.card {
+    width: 100%;
+    border-radius: 22px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-bottom: 40px;
+}
+.crd img{
+    padding: 15px;
+}
+.card-text{
+    color: #ED6B4F;
+}
+.star img{
+    width:15px;
+    height: 14px;
+    margin-top: 5px;
+}
+.clock img{
+    width: 22px;
+    height: 22px;
+}
+.box{
+    height: 29px;
+    width: 94px;
+    border-radius: 14px;
+    background-color: #FFE4E8;
+
+}
+.footer{
+    margin-top: 60px;
+}
+.middle{
+    margin-top: 63px;
+}
+.crs{
+    height: 450px;
+    max-width: 870px;
+}
+
+.b-1{
+   height: 300px;
+   margin-top: 20px;
+}
+hr{
+    width: 780px;
+}
+
+.new{
+    max-width: 870px;
+}
+.bx{
+    background-color: #ED6B4F;
+    
+    border: 1px solid black;
+}
